@@ -1,0 +1,25 @@
+{
+  "name": "keyboard-shop-api",
+  "version": "1.0.0",
+  "description": "init pj",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/datndt1852/keyboard-shop-api.git"
+  },
+  "keywords": [
+    "keyboard-shop-api"
+  ],
+  "author": "Tini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datndt1852/keyboard-shop-api/issues"
+  },
+  "homepage": "https://github.com/datndt1852/keyboard-shop-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
